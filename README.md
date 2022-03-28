@@ -4,8 +4,8 @@ e Atividades (no qual se tem id de atividades, nome, id de pessoa, e relacioname
 
 Para execução projeto se faz necessário os seguintes requisitos:
 
-*1. Execute este comando para baixar sqlalchemy*
+*1. Execute este comando para baixar sqlalchemy*:
 pip install sqlalchemy
 
-*2. Execute o comando para rodar código*
+*2. Execute o comando para rodar código*:
 py utils.py
